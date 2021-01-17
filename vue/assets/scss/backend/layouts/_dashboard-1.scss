@@ -1,0 +1,68 @@
+#layout-1-chart-04 {
+	height: 400px;
+}
+#layout-1-chart-01{
+	min-height: 300px !important;
+}
+#layout-1-chart-06{
+	min-height: 310px !important;
+}
+#layout-1-chart-03{
+	min-height: 350px !important;
+	.apexcharts-legend{
+		inset: auto 0px 0px !important;
+	}
+}
+#layout-1-chart-05{
+	min-height: 350px !important;
+}
+.iq-details {
+	.iq-progress-bar {
+		height: 10px;
+		padding: 3px;
+	}
+}
+.iq-icon-box-2 {
+	height: 55px;
+	width: 55px;
+	line-height: 55px;
+	text-align: center;
+	margin-right: 10px;
+	font-size: 26px;
+}
+.reporting-table.table.table-borderless {
+	thead {
+		th {
+			border-bottom: 1px solid $gray-dark1;
+		}
+	}
+}
+.reporting_table {
+	tbody {
+		tr {
+			border-bottom: 10px solid $white;
+			background-color:$bodybg;
+		}
+		td {
+			background-color: transparent;
+			border: 0px solid transparent;
+		}
+	}
+}
+#layout-1-chart-06{
+    .apexcharts-legend{
+        margin-top: -10px !important;
+        inset: auto 0px 0px !important;
+    }
+}
+
+.progress.progress-round.conversation-bar {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	.progress-value {
+		font-size: 16px;
+		left: 32px;
+		text-align: center;
+	}
+}

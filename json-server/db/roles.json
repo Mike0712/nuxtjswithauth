@@ -1,0 +1,54 @@
+{
+    "roles": [
+        {
+            "user_id": 1,
+            "roles": ["admin", "supervisor"],
+            "currentRole": "admin"
+        },
+        {
+            "user_id": 2,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 3,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 4,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 5,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 6,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 7,
+            "roles": ["operator"],
+            "currentRole": "operator"
+        },
+        {
+            "user_id": 8,
+            "roles": ["admin", "supervisor"],
+            "currentRole": "admin"
+        },
+        {
+            "user_id": 9,
+            "roles": ["admin", "supervisor"],
+            "currentRole": "supervisor"
+        },
+        {
+            "user_id": 10,
+            "roles": ["admin", "supervisor"],
+            "currentRole": "supervisor"
+        }
+    ]
+}

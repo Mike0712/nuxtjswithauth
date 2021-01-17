@@ -1,0 +1,9 @@
+[
+  {
+    "action": "users",
+    "allow": true,
+    "roles": [
+      "admin"
+    ]
+  }
+]
